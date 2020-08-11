@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) 
 
 ### 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a responsible and collaborative way. 🙌
-
-### 🎈 Apaixonada pelo universo da TI, procuro renovar continuamente meus conhecimentos 📚 na área de forma a participar ativamente de projetos 📑 nos quais posso não só desenvolver competências, mas também contribuir para a construção de ferramentas ⚙ que impactem verdadeiramente a vida das pessoas, sempre buscando a melhoria contínua dentro de cada projeto de forma responsável e colaborativa. 🙌
