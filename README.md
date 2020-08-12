@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me 💬 
+<h4> 💬 How to reach me</h4>
 
 </a> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/) 
 
 ### 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a responsible and collaborative way. 🙌
 
-🌱 I’m currently learning
+<h4>🌱  I’m currently learning </h4>
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/df1b3148326786c637313ee851e7500306e23f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d4a6176617363726970742323266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/df1b3148326786c637313ee851e7500306e23f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d4a6176617363726970742323266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&amp;logo=Javascript##&amp;logoColor=white" style="max-width:100%;"></a>
 
