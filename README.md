@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a responsible and collaborative way. 🙌
 
-## 🐝 I am currently an application development internship at IBM   <img src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.png?raw=true" width="30" height="30">
+## 🐝 I am currently an application development internship at  <img src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
 
 <h4>🌱  I’m currently learning </h4>
 
