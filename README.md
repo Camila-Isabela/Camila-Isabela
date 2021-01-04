@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a responsible and collaborative way. 🙌
+## 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a responsible and collaborative way. 🙌
+
+## 🐝 I am currently an application development internship at IBM 🔵
 
 <h4>🌱  I’m currently learning </h4>
 
