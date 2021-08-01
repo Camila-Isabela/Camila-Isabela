@@ -5,10 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camila-Isabela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-Isabela&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-![Snake animation](https://github.com/Camila-Isabela/Camila-Isabela/blob/output/github-contribution-grid-snake.svg)
-
-### 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a responsible and collaborative way. 🙌
+  
+  ![Snake animation](https://github.com/Camila-Isabela/Camila-Isabela/blob/output/github-contribution-grid-snake.svg)
+   
+  ### 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only     develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a         responsible and collaborative way. 🙌
 
 ### 🐝 I am currently an application development internship at    <img src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
 
