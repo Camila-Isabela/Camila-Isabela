@@ -1,31 +1,31 @@
-       ### Hi there 👋
+## Hi there 👋, I'm a Camila isabela!
 
-<!--
-**Camila-Isabela/Camila-Isabela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/Camila-Isabela">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camila-Isabela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-Isabela&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+![Snake animation](https://github.com/Camila-Isabela/Camila-Isabela/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a responsible and collaborative way. 🙌
+### 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a responsible and collaborative way. 🙌
 
-## 🐝 I am currently an application development internship at    <img src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
+### 🐝 I am currently an application development internship at    <img src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
 
-<h4>🌱  I’m currently learning </h4>
+### 🌱  I’m currently learning 
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/df1b3148326786c637313ee851e7500306e23f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d4a6176617363726970742323266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/df1b3148326786c637313ee851e7500306e23f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d79656c6c6f773f7374796c653d666c61742d737175617265266c6f676f3d4a6176617363726970742323266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&amp;logo=Javascript##&amp;logoColor=white" style="max-width:100%;"></a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Camila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Camila-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86fa24699e810b15e96e062ca543de7c559fe66f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d52656163742323266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/86fa24699e810b15e96e062ca543de7c559fe66f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d52656163742323266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=React##&amp;logoColor=white" style="max-width:100%;"></a>
 
-<h4> 💬 How to reach me</h4>
+
+###  💬 How to reach me
 
 </a> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/) 
 
- ![Snake animation](https://github.com/Camila-Isabela/Camila-Isabela/blob/output/github-contribution-grid-snake.svg)
+ 
