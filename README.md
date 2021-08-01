@@ -23,6 +23,8 @@
 
 
 
-###  💬 How to reach me    <a target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/)</a>
+### That's it! 
+  
+<a target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/)</a>
 
  
