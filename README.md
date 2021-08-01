@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86fa24699e810b15e96e062ca543de7c559fe66f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d52656163742323266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/86fa24699e810b15e96e062ca543de7c559fe66f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d52656163742323266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=React##&amp;logoColor=white" style="max-width:100%;"></a>
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-
 <h4> 💬 How to reach me</h4>
 
 </a> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/) 
 
- 
+ ![Snake animation](https://github.com/Camila-Isabela/Camila-Isabela/blob/output/github-contribution-grid-snake.svg)
