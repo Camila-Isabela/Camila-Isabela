@@ -29,8 +29,6 @@
   
 </div>
 <hr>
-   
-  https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/handlebars/handlebars-original-wordmark.svg
   
 <a target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/)</a>
 <br>
