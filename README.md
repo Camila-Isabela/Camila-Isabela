@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm a Camila isabela!
 
+<img src="https://komarev.com/ghpvc/?username=Camila-Isabela&color=blueviolet" alt="Camila-Isabela" /> 
+
 <div>
   <a href="https://github.com/Camila-Isabela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camila-Isabela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,7 +28,7 @@
 </div>
 <hr>
    
-<img src="https://komarev.com/ghpvc/?username=Camila-Isabela&color=blue" alt="Camila-Isabela" />   
+  
   
 <a target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/)</a>
 <br>
