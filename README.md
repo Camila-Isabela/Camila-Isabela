@@ -10,8 +10,12 @@
    
   ### 🎈 Passionate about the IT universe, I seek to continually renew my knowledge 📚 in the area in order to actively participate in projects 📑 in which I can not only     develop skills, but also contribute to the construction of tools  ⚙  that truly impact people's lives, always seeking continuous improvement within each project in a         responsible and collaborative way. 🙌
 
-### 🐝 I am currently an application development internship at    <img src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
+<hr>
 
+  ### 🐝 I am currently an application development internship at    <img src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
+  
+<hr>
+  
 ### 🌱  I’m currently learning 
 
 <div style="display: inline_block"><br>
@@ -20,11 +24,12 @@
   <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=Camila-Isabela&color=green" alt="Camila-Isabela" />
-
-### That's it! 
+<hr>
+   
+<img src="https://komarev.com/ghpvc/?username=Camila-Isabela&color=blue" alt="Camila-Isabela" />   
   
 <a target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/)</a>
-
+<br>
+  
+### That's it! 
  
