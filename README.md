@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a Camila isabela!
+## Hi there 👋, I'm a Camila Isabela!
 
 <img src="https://komarev.com/ghpvc/?username=Camila-Isabela&color=blueviolet" alt="Camila-Isabela" /> 
 
