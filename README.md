@@ -14,14 +14,14 @@
 
 <hr>
 
-  ### 🐝 I am currently an application development internship at    <img src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
+  ### 🐝 I am currently an application development internship at   <img align="center" alt="Camila-ibm" height="30" width="50" src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
   
 <hr>
   
 ### 🌱  I’m currently learning 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Camila-Javascript" height="30" width="40" border-radius="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Camila-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Camila-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-plain.svg">
    <img align="center" alt="Camila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
