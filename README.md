@@ -21,15 +21,14 @@
 ### 🌱  I’m currently learning 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Camila-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Camila-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-plain.svg">
-   <img align="center" alt="Camila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Camila-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg">
-  <img align="center" alt="Camila-CSS" height="30" width="40" src="https://t4.ftcdn.net/jpg/02/29/05/61/360_F_229056171_ChU5mwvY4ygeGPYnXO4p23j1Y7zxW8cY.jpg">
-
-  
+  <img align="center" alt=".Net Core" height="90" width="120" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/dotnetCore.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" margin-right="10">
+  <img align="center" alt="Oracle Database" height="60" width="100" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Oracle.component.complex-narrative-xl.ts=1690900057141.png/content/adobe-cms/br/pt/products/instana/supported-technologies/oracle-database-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage">&nbsp;
+  <img align="center" alt="SQL" height="60" width="100" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.component.complex-narrative-l.ts=1692800225821.png/content/adobe-cms/br/pt/products/instana/supported-technologies/microsoft-sql-server-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage">&emsp;&emsp;
+  <img align="center" alt="Node" height="60" width="60" margin-left="1200" src="https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png"> 
 </div>
 <hr>
+
+
   
 <a target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-isabela/)](https://www.linkedin.com/in/camila-isabela/)</a>
 <br>
