@@ -14,10 +14,11 @@
 
 <hr>
 
-  ### 🐝 I am currently an application developer at   <img align="center" alt="Camila-ibm" height="30" width="50" src="https://github.com/Camila-Isabela/Camila-Isabela/blob/master/ibm.jpg?raw=true" width="70" height="40">
+### 🚀 I am currently an Analyst Developer at   <img align="center" alt="Camila-ibm" height="30" width="50" src="https://media.engage.it/2023/11/reply-logo_806890.jpg">
   
 <hr>
-  
+
+
 ### 🌱  I’m currently learning 
 
 <div style="display: inline_block"><br>
